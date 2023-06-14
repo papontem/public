@@ -1,0 +1,129 @@
+:root {
+	--my-bk-color1: white;
+	--my-bk-color1-9: rgba(255, 255, 255, 0.9);
+	--my-bk-color2: rgb(211, 211, 211);
+	--my-bk-color2-75: rgba(211, 211, 211, 0.75);
+	--my-bk-color3: rgb(139, 0, 0);
+	--my-bk-color4: rgb(255, 215, 0);
+	--my-bk-color5: rgb(220, 165, 49);
+	--my-bk-color6: rgb(180, 100, 45);
+	--my-bk-color7: rgb(80, 30, 12);
+	--my-bk-color8: rgb(40, 15, 6);
+	--my-bk-color9: rgb(20, 5, 3);
+	--my-bk-color10: black;
+	--my-linear-gradient: linear-gradient(
+		170deg,
+		var(--my-bk-color6),
+		var(--my-bk-color5),
+		var(--my-bk-color4)
+	);
+	font-family: "BIZ UDPGothic", sans-serif, "Smokum", cursive;
+}
+/* body {
+	color: var(--my-bk-color1);
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: var(--my-bk-color3) 1px solid;
+	background: var(--my-linear-gradient);
+	background-size: 500%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+} */
+body header {
+	/* border: var(--my-bk-color10) 1px solid; */
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	background-color: bisque;
+}
+body header div.top h1 {
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h3 {
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body header div.top {
+	text-align: left;
+}
+body header form {
+	/* border: var(--my-bk-color10) 1px solid; */
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	margin: 10px;
+	padding: 10px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+body header form input {
+	width: 13em;
+	margin: 5px;
+}
+/* the start restart button */
+#startButton {
+	cursor: pointer;
+	border: 0px;
+	padding: 10px;
+	font-size: large;
+	background-image: var(--my-linear-gradient);
+	background-size: 200%;
+	background-position: left;
+	transition: background-position ease 10s;
+	transition: outline 2s;
+}
+#startButton:hover,
+#starButtun:focus {
+	background-position: right;
+	outline: 10px black solid;
+}
+
+/* game board table */
+#game {
+	padding: 10px 0px 0px 0px;
+	/* border: var(--my-bk-color10) 5px solid; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: bisque;
+}
+#board td {
+	padding: 0px;
+	width: 48px;
+	height: 48px;
+	border: double 2px var(--my-bk-color10);
+}
+
+/* column-top is table row of clickable areas for each column */
+#column-top td {
+	border: dashed 2px var(--my-bk-color10);
+}
+
+#column-top td:hover,
+#column-top td:focus {
+	background: repeating-radial-gradient(
+		var(--my-bk-color10),
+		var(--my-bk-color9) 5px,
+		white 5px,
+		white 10px
+	);
+}
+
+/* pieces are div within game table cells: draw as colored circles */
+.piece {
+	margin: 5px;
+	width: 80%;
+	height: 80%;
+	border-radius: 50%;
+}
