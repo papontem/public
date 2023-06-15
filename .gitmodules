@@ -1,3 +1,15 @@
 [submodule "16_1CarOO_Public"]
 	path = 16_1CarOO_Public
 	url = https://github.com/papontem/16_1CarOO_Public.git
+[submodule "20hack_or_snooze_ajax_api"]
+	path = 20hack_or_snooze_ajax_api
+	url = https://github.com/papontem/20hack_or_snooze_ajax_api.git
+[submodule "16_2Connect_4_OO_Public"]
+	path = 16_2Connect_4_OO_Public
+	url = https://github.com/papontem/16_2Connect_4_OO_Public.git
+[submodule "15Connect4_Public_Demo"]
+	path = 15Connect4_Public_Demo
+	url = https://github.com/papontem/15Connect4_Public_Demo.git
+[submodule "Memory_Game_Public_Demo"]
+	path = Memory_Game_Public_Demo
+	url = https://github.com/papontem/Memory_Game_Public_Demo.git
