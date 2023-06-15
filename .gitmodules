@@ -13,3 +13,6 @@
 [submodule "Memory_Game_Public_Demo"]
 	path = Memory_Game_Public_Demo
 	url = https://github.com/papontem/Memory_Game_Public_Demo.git
+[submodule "23_1flask_greet_calc"]
+	path = 23_1flask_greet_calc
+	url = https://github.com/papontem/23_1flask_greet_calc.git
