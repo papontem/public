@@ -16,3 +16,6 @@
 [submodule "23_1flask_greet_calc"]
 	path = 23_1flask_greet_calc
 	url = https://github.com/papontem/23_1flask_greet_calc.git
+[submodule "23_2_flask_madlibs"]
+	path = 23_2_flask_madlibs
+	url = https://github.com/papontem/23_2_flask_madlibs.git
