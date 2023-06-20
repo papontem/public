@@ -19,3 +19,6 @@
 [submodule "23_2_flask_madlibs"]
 	path = 23_2_flask_madlibs
 	url = https://github.com/papontem/23_2_flask_madlibs.git
+[submodule "23_3_flask_survey"]
+	path = 23_3_flask_survey
+	url = https://github.com/papontem/23_3_flask_survey.git
