@@ -25,3 +25,6 @@
 [submodule "23_4_flask_survey_sessions"]
 	path = 23_4_flask_survey_sessions
 	url = https://github.com/papontem/23_4_flask_survey_sessions.git
+[submodule "23_5_flask_boggle"]
+	path = 23_5_flask_boggle
+	url = https://github.com/papontem/23_5_flask_boggle.git
