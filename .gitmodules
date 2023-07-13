@@ -31,3 +31,6 @@
 [submodule "26_2_sql_querying_exercise"]
 	path = 26_2_sql_querying_exercise
 	url = https://github.com/papontem/26_2_sql_querying_exercise.git
+[submodule "26_3_sql_joins_exercise"]
+	path = 26_3_sql_joins_exercise
+	url = https://github.com/papontem/26_3_sql_joins_exercise.git
