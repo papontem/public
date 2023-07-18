@@ -34,3 +34,9 @@
 [submodule "26_3_sql_joins_exercise"]
 	path = 26_3_sql_joins_exercise
 	url = https://github.com/papontem/26_3_sql_joins_exercise.git
+[submodule "26_4_sql_ddl_design_exercise"]
+	path = 26_4_sql_ddl_design_exercise
+	url = https://github.com/papontem/26_4_sql_ddl_design_exercise.git
+[submodule "27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One"]
+	path = 27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One
+	url = https://github.com/papontem/27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One.git
