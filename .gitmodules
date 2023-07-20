@@ -40,3 +40,6 @@
 [submodule "27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One"]
 	path = 27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One
 	url = https://github.com/papontem/27_1_Flask_SQLAlchemy_Blogly_Exercise_Part_One.git
+[submodule "27_2_Flask_SQLAlchemy_Blogly_Exercise_Part_Two"]
+	path = 27_2_Flask_SQLAlchemy_Blogly_Exercise_Part_Two
+	url = https://github.com/papontem/27_2_Flask_SQLAlchemy_Blogly_Exercise_Part_Two.git
