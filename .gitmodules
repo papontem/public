@@ -46,3 +46,6 @@
 [submodule "27_3_Flask_SQLAlchemy_Blogly_Exercise_Part_Three"]
 	path = 27_3_Flask_SQLAlchemy_Blogly_Exercise_Part_Three
 	url = https://github.com/papontem/27_3_Flask_SQLAlchemy_Blogly_Exercise_Part_Three.git
+[submodule "28_1_Adoption_Agency_Exercise"]
+	path = 28_1_Adoption_Agency_Exercise
+	url = https://github.com/papontem/28_1_Adoption_Agency_Exercise.git
