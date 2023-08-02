@@ -49,3 +49,9 @@
 [submodule "28_1_Adoption_Agency_Exercise"]
 	path = 28_1_Adoption_Agency_Exercise
 	url = https://github.com/papontem/28_1_Adoption_Agency_Exercise.git
+[submodule "28_3_Flask_Cupcakes_Exercise"]
+	path = 28_3_Flask_Cupcakes_Exercise
+	url = https://github.com/papontem/28_3_Flask_Cupcakes_Exercise.git
+[submodule "28_4_Authen_and_Author_Flask_Feedback_Exercise"]
+	path = 28_4_Authen_and_Author_Flask_Feedback_Exercise
+	url = https://github.com/papontem/28_4_Authen_and_Author_Flask_Feedback_Exercise.git
