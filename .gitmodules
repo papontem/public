@@ -55,3 +55,6 @@
 [submodule "28_4_Authen_and_Author_Flask_Feedback_Exercise"]
 	path = 28_4_Authen_and_Author_Flask_Feedback_Exercise
 	url = https://github.com/papontem/28_4_Authen_and_Author_Flask_Feedback_Exercise.git
+[submodule "33_1_Spoon-Knife"]
+	path = 33_1_Spoon-Knife
+	url = https://github.com/papontem/33_1_Spoon-Knife.git
