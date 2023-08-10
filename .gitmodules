@@ -58,3 +58,6 @@
 [submodule "33_1_Spoon-Knife"]
 	path = 33_1_Spoon-Knife
 	url = https://github.com/papontem/33_1_Spoon-Knife.git
+[submodule "33_2_JS_Async_Code_Promises_Exercise"]
+	path = 33_2_JS_Async_Code_Promises_Exercise
+	url = https://github.com/papontem/33_2_JS_Async_Code_Promises_Exercise.git
