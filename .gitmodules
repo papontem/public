@@ -61,3 +61,6 @@
 [submodule "33_2_JS_Async_Code_Promises_Exercise"]
 	path = 33_2_JS_Async_Code_Promises_Exercise
 	url = https://github.com/papontem/33_2_JS_Async_Code_Promises_Exercise.git
+[submodule "33_3_JS_Async_Code_Await_Exercise"]
+	path = 33_3_JS_Async_Code_Await_Exercise
+	url = https://github.com/papontem/33_3_JS_Async_Code_Await_Exercise.git
