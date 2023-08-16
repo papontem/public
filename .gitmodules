@@ -67,3 +67,6 @@
 [submodule "33_4_Node_Files_Exercise"]
 	path = 33_4_Node_Files_Exercise
 	url = https://github.com/papontem/33_4_Node_Files_Exercise.git
+[submodule "33_5_Markov_Text_Machine"]
+	path = 33_5_Markov_Text_Machine
+	url = https://github.com/papontem/33_5_Markov_Text_Machine.git
