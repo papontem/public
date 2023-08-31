@@ -76,3 +76,6 @@
 [submodule "34_2_Express_Shopping_List_Exercise"]
 	path = 34_2_Express_Shopping_List_Exercise
 	url = https://github.com/papontem/34_2_Express_Shopping_List_Exercise.git
+[submodule "37_1_Node_PG_BizTime_Exercise"]
+	path = 37_1_Node_PG_BizTime_Exercise
+	url = https://github.com/papontem/37_1_Node_PG_BizTime_Exercise.git
