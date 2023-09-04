@@ -79,3 +79,6 @@
 [submodule "37_2_Node_PG_BizTime_Exercise_Further_Study"]
 	path = 37_2_Node_PG_BizTime_Exercise_Further_Study
 	url = https://github.com/papontem/37_2_Node_PG_BizTime_Exercise_Further_Study.git
+[submodule "37_3_Lunchly_Reservs_Sys_App_Exercise"]
+	path = 37_3_Lunchly_Reservs_Sys_App_Exercise
+	url = https://github.com/papontem/37_3_Lunchly_Reservs_Sys_App_Exercise.git
