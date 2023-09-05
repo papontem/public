@@ -82,3 +82,6 @@
 [submodule "37_3_Lunchly_Reservs_Sys_App_Exercise"]
 	path = 37_3_Lunchly_Reservs_Sys_App_Exercise
 	url = https://github.com/papontem/37_3_Lunchly_Reservs_Sys_App_Exercise.git
+[submodule "38_1_Messagely_Hash_JWTs_Exercise"]
+	path = 38_1_Messagely_Hash_JWTs_Exercise
+	url = https://github.com/papontem/38_1_Messagely_Hash_JWTs_Exercise.git
