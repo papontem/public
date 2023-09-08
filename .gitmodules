@@ -85,3 +85,6 @@
 [submodule "38_1_Messagely_Hash_JWTs_Exercise"]
 	path = 38_1_Messagely_Hash_JWTs_Exercise
 	url = https://github.com/papontem/38_1_Messagely_Hash_JWTs_Exercise.git
+[submodule "38_2_Bookstore_API_Validation_Exercise"]
+	path = 38_2_Bookstore_API_Validation_Exercise
+	url = https://github.com/papontem/38_2_Bookstore_API_Validation_Exercise.git

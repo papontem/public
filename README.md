@@ -1,3 +1,36 @@
 # public
 
-public code repo
+public code master repo
+
+## Repos:
+
+15Connect4_Public_Demo
+16_1CarOO_Public
+16_2Connect_4_00_Public
+20hack_or_snooze_ajax_api
+23_1flask_greet_calc
+23_2_flask_madlibs
+23_3_flask_survey
+23_4_flask_survey_sessions
+23_5_flask_boggle
+26_2_sql_querying_exercise
+26_3_sql_joins_exercise
+26_4_sql_ddl_design_exercise
+27_1__Flask_SQLAlchemy_Blogly_Exercise_Part_One
+27_2_Flask_SQLAlchemy_Blogly_Exercise_Part_Two
+27_3_Flask_SQLAlchemy_Blogly_Exercise_Part_Three
+28_1_Adoption_Agency_Exercise
+28_3_Flask_Cupcakes_Exercise
+28_4_Authen_and_Author_Flask_Feedback_Exercise
+33_1_Spoon-Knife
+33_2_JS_Async_Code_Promises_Exercise
+33_3_JS_Async_Code_Await_Exercise
+33_4_Node_Files Exercise
+33_5_Markov_Text Machine
+34_1_Express_Routing_Calculator_Exercise
+34_2_Express_Shopping_List_Exercise
+37_1_Node_PG BizTime Exercise
+37_2_Node_PG_BizTime_Exercise_Further_Study
+37_3_Lunchly_Reservs_Sys_App_Exercise
+38_1_Messagely_Hash_JWTs_Exercise
+38_2_Bookstore API Validation Exercise
