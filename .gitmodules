@@ -88,3 +88,6 @@
 [submodule "38_2_Bookstore_API_Validation_Exercise"]
 	path = 38_2_Bookstore_API_Validation_Exercise
 	url = https://github.com/papontem/38_2_Bookstore_API_Validation_Exercise.git
+[submodule "41_2_JSX_exercise"]
+	path = 41_2_JSX_exercise
+	url = https://github.com/papontem/41_2_JSX_exercise.git
