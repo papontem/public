@@ -91,3 +91,9 @@
 [submodule "41_2_JSX_exercise"]
 	path = 41_2_JSX_exercise
 	url = https://github.com/papontem/41_2_JSX_exercise.git
+[submodule "41_3_React_ES2015_Module_Exercise"]
+	path = 41_3_React_ES2015_Module_Exercise
+	url = https://github.com/papontem/41_3_React_ES2015_Module_Exercise.git
+[submodule "41_3_React_Props_Pokedex"]
+	path = 41_3_React_Props_Pokedex
+	url = https://github.com/papontem/41_3_React_Props_Pokedex.git
