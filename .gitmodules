@@ -103,3 +103,6 @@
 [submodule "41_5_React_Testing_Exercises"]
 	path = 41_5_React_Testing_Exercises
 	url = https://github.com/papontem/41_5_React_Testing_Exercises.git
+[submodule "41_7_React_Lights_Out"]
+	path = 41_7_React_Lights_Out
+	url = https://github.com/papontem/41_7_React_Lights_Out.git
