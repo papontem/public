@@ -109,3 +109,6 @@
 [submodule "41_8_React_Forms_exercises"]
 	path = 41_8_React_Forms_exercises
 	url = https://github.com/papontem/41_8_React_Forms_exercises.git
+[submodule "41_9_React_Effect_Refs_Deck_Of_Cards_Exercise"]
+	path = 41_9_React_Effect_Refs_Deck_Of_Cards_Exercise
+	url = https://github.com/papontem/41_9_React_Effect_Refs_Deck_Of_Cards_Exercise.git
