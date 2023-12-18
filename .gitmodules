@@ -115,3 +115,6 @@
 [submodule "41_10_React_Custom_Hooks_Cards_Exercise"]
 	path = 41_10_React_Custom_Hooks_Cards_Exercise
 	url = https://github.com/papontem/41_10_React_Custom_Hooks_Cards_Exercise.git
+[submodule "52_Public_Capstone"]
+	path = 52_Public_Capstone
+	url = https://github.com/papontem/52_Public_Capstone.git
