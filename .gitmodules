@@ -121,3 +121,6 @@
 [submodule "43_1_React_Router_Vending_Machine"]
 	path = 43_1_React_Router_Vending_Machine
 	url = https://github.com/papontem/43_1_React_Router_Vending_Machine.git
+[submodule "43_2_React_Router_Patterns"]
+	path = 43_2_React_Router_Patterns
+	url = https://github.com/papontem/43_2_React_Router_Patterns.git
