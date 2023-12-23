@@ -124,3 +124,6 @@
 [submodule "43_2_React_Router_Patterns"]
 	path = 43_2_React_Router_Patterns
 	url = https://github.com/papontem/43_2_React_Router_Patterns.git
+[submodule "43_3_React_History_CheeZJokes_App_Classes_Exercise"]
+	path = 43_3_React_History_CheeZJokes_App_Classes_Exercise
+	url = https://github.com/papontem/43_3_React_History_CheeZJokes_App_Classes_Exercise.git
