@@ -127,3 +127,6 @@
 [submodule "43_3_React_History_CheeZJokes_App_Classes_Exercise"]
 	path = 43_3_React_History_CheeZJokes_App_Classes_Exercise
 	url = https://github.com/papontem/43_3_React_History_CheeZJokes_App_Classes_Exercise.git
+[submodule "49_2_BIG_O"]
+	path = 49_2_BIG_O
+	url = https://github.com/papontem/49_2_BIG_O.git
