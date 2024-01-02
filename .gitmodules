@@ -130,3 +130,6 @@
 [submodule "49_2_BIG_O"]
 	path = 49_2_BIG_O
 	url = https://github.com/papontem/49_2_BIG_O.git
+[submodule "49_3_Divide_N_Conquer"]
+	path = 49_3_Divide_N_Conquer
+	url = https://github.com/papontem/49_3_Divide_N_Conquer.git
