@@ -133,3 +133,6 @@
 [submodule "49_3_Divide_N_Conquer"]
 	path = 49_3_Divide_N_Conquer
 	url = https://github.com/papontem/49_3_Divide_N_Conquer.git
+[submodule "49_4_Linked_Lists"]
+	path = 49_4_Linked_Lists
+	url = https://github.com/papontem/49_4_Linked_Lists.git
