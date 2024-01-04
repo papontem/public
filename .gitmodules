@@ -136,3 +136,6 @@
 [submodule "49_4_Linked_Lists"]
 	path = 49_4_Linked_Lists
 	url = https://github.com/papontem/49_4_Linked_Lists.git
+[submodule "49_5_Stacks_N_Queues"]
+	path = 49_5_Stacks_N_Queues
+	url = https://github.com/papontem/49_5_Stacks_N_Queues.git
