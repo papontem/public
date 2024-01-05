@@ -139,3 +139,6 @@
 [submodule "49_5_Stacks_N_Queues"]
 	path = 49_5_Stacks_N_Queues
 	url = https://github.com/papontem/49_5_Stacks_N_Queues.git
+[submodule "49_6_Recursion"]
+	path = 49_6_Recursion
+	url = https://github.com/papontem/49_6_Recursion.git
