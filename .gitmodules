@@ -148,3 +148,12 @@
 [submodule "49_8_Trees"]
 	path = 49_8_Trees
 	url = https://github.com/papontem/49_8_Trees
+[submodule "49_9_Binary_Search_Tree"]
+	path = 49_9_Binary_Search_Tree
+	url = https://github.com/papontem/49_9_Binary_Search_Tree.git
+[submodule "49_10_Graphs"]
+	path = 49_10_Graphs
+	url = https://github.com/papontem/49_10_Graphs.git
+[submodule "49_11_Sorting"]
+	path = 49_11_Sorting
+	url = https://github.com/papontem/49_11_Sorting.git
